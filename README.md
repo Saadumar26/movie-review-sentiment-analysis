@@ -68,9 +68,9 @@ The project includes preprocessing raw text, feature extraction using TF-IDF, an
 
 | Model                 | Accuracy |
 |----------------------|----------|
-| Logistic Regression  | 88.7%    |
-| Naive Bayes          | 86.2%    |
-| Support Vector Classifier | 89.4%    |
+| Logistic Regression  | 86.8%    |
+| Naive Bayes          | 84.2%    |
+| Support Vector Classifier | 85.1%    |
 
 - **Best Performing Model**: SVM
 - Word clouds showed that negative reviews often included words like *boring, worst*, while positive ones had *amazing, brilliant, loved*.
