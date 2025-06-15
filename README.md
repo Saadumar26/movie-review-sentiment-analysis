@@ -20,14 +20,15 @@ The project includes preprocessing raw text, feature extraction using TF-IDF, an
 
 ## 📂 Dataset
 
-- **Source**: [IMDb Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
-- **Type**: Binary Sentiment Classification
-- **Size**: 50,000 labeled reviews
-  - 25,000 for training (balanced)
-  - 25,000 for testing (balanced)
-- **Labels**:
-  - `1` – Positive
-  - `0` – Negative
+Source: [IMDb Dataset of 50K Movie Reviews on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
+Type: Binary Sentiment Classification  
+Size: 50,000 labeled reviews  
+- 25,000 for training (balanced)  
+- 25,000 for testing (balanced)  
+
+**Labels:**  
+- `1` – Positive  
+- `0` – Negative 
 
 ---
 
